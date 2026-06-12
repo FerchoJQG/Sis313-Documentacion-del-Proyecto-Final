@@ -8,10 +8,10 @@
 
 | Nombre Completo | Rol en el Proyecto | Contacto (GitHub/Email) |
 | :--- | :--- | :--- |
-| Danner Macuchapi Fernández | Servidor DNS + Firewall (VM1 · `192.168.43.220`) | [Usuario de GitHub] |
-| Limbert Mamani Isla | Servidor Editorial — Node.js + PM2 (VM2 · `192.168.43.221`) | [Usuario de GitHub] |
+| Danner Macuchapi Fernández | Servidor DNS + Firewall (VM1 · `192.168.43.220`) | [Usuario de GitHub](https://github.com/danermacuchapifernandez-ui) |
+| Limbert Mamani Isla | Servidor Editorial — Node.js + PM2 (VM2 · `192.168.43.221`) | [Usuario de GitHub](https://github.com/LimbertIsla) |
 | Fernando José Quispe Gardeazabal | CDN Edge — NGINX + Fail2ban (VM3 · `192.168.43.222`) | [@FerchoJQG](https://github.com/FerchoJQG) |
-| Melany Helen Jurado Mamani | Administración + Monitoreo + Backups (VM4 · `192.168.43.223`) | [Usuario de GitHub] |
+| Melany Helen Jurado Mamani | Administración + Monitoreo + Backups (VM4 · `192.168.43.223`) | [Usuario de GitHub](https://github.com/juradoshelen-wq) |
 
 ## 🎯 I. Objetivo del Proyecto
 
@@ -48,7 +48,7 @@
 
 ### 4.1. Diseño Esquemático
 
-> ![Arquitectura de la red](Imagen1.jpg)
+> ![Arquitectura de la red](inframe.jpg)
 
 | VM/Host | Rol | IP Física | IP Virtual (si aplica) | Red Lógica | SO |
 | :--- | :--- | :--- | :--- | :--- | :--- |
