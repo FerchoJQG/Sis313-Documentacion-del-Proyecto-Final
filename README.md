@@ -8,10 +8,10 @@
 
 | Nombre Completo | Rol en el Proyecto | Contacto (GitHub/Email) |
 | :--- | :--- | :--- |
-| Danner Macuchapi Fernández | Servidor DNS + Firewall (VM1 · `192.168.43.220`) | [Usuario de GitHub](https://github.com/danermacuchapifernandez-ui) |
-| Limbert Mamani Isla | Servidor Editorial — Node.js + PM2 (VM2 · `192.168.43.221`) | [Usuario de GitHub](https://github.com/LimbertIsla) |
+| Danner Macuchapi Fernández | Servidor DNS + Firewall (VM1 · `192.168.43.220`) | [@danermacuchapifernandez](https://github.com/danermacuchapifernandez-ui) |
+| Limbert Mamani Isla | Servidor Editorial — Node.js + PM2 (VM2 · `192.168.43.221`) | [@LimbertIsla](https://github.com/LimbertIsla) |
 | Fernando José Quispe Gardeazabal | CDN Edge — NGINX + Fail2ban (VM3 · `192.168.43.222`) | [@FerchoJQG](https://github.com/FerchoJQG) |
-| Melany Helen Jurado Mamani | Administración + Monitoreo + Backups (VM4 · `192.168.43.223`) | [Usuario de GitHub](https://github.com/juradoshelen-wq) |
+| Melany Helen Jurado Mamani | Administración + Monitoreo + Backups (VM4 · `192.168.43.223`) | [@juradoshelen](https://github.com/juradoshelen-wq) |
 
 ## 🎯 I. Objetivo del Proyecto
 
